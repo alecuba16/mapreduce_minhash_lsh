@@ -1,0 +1,5 @@
+I ate an apple.
+I went to the Apple.
+I ate an orange.
+This has nothing in common with the other sentences.
+This sentence has a lot in common with the previous sentence.
